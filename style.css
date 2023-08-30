@@ -1,6 +1,14 @@
-.header {
-    background-color: aqua;
+.header{
+    padding: 3px;
 }
-p {
-    font-size: 34px;
+
+p{
+    padding: 3px ;
+}
+.card {
+    width: 200px;
+    height: 300px;
+    background-color: bisque;
+    box-shadow: 0 0 5px 5px rgb(148, 144, 144);
+    margin: 25px 25px;
 }
